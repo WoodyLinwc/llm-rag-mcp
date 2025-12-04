@@ -5,6 +5,21 @@
   text-align: center;
 }
 
+h2,
+h3,
+p,
+ul,
+ol,
+pre {
+  text-align: left;
+}
+
+img {
+  max-width: 90%;
+  height: auto;
+  margin: 20px 0;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
